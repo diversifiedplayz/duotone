@@ -1,13 +1,16 @@
-# README
-## This is the README for your extension "duotone"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+# Duotone MC Theme
+VS code color theme that supports mcfunction files
+<br/>
+image here
+<br/>
+<br/>
+## Installation
+---
+1. Go to VS Marketplace [link the extension]
+2. Click on `Install` Button
+3. Then [select](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme) duotone theme
+<br/>
+<br/>
+## Dependencies
+---
+Duotone theme requires [language-mcfunction](https://marketplace.visualstudio.com/items?itemName=arcensoth.language-mcfunction) extension installed for it to function properly.

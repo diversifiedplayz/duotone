@@ -1,7 +1,7 @@
 {
     "name": "duotone",
     "displayName": "duotone",
-    "description": "color theme for minecraft datapacks",
+    "description": "color theme that supports minecraft datapacks",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.68.0"
