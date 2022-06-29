@@ -3,12 +3,27 @@
     "displayName": "duotone",
     "description": "color theme that supports minecraft datapacks",
     "version": "0.0.1",
+    
     "engines": {
-        "vscode": "^1.68.0"
+        "vscode": "^1.0.0"
     },
+    "author": {
+        "name": "DiversifiedPlayz"
+    },
+    "publisher": "DiversifiedPlayz",
+    "license": "MIT",
+    "keywords": [
+        "datapacks","minecraft","theme","mcfunction"
+    ],
+    "icon": "icon.png",
+    "homepage": "https://github.com/diversifiedplayz/duotone",
     "categories": [
         "Themes"
     ],
+    "extensionKind": [
+        "ui",
+        "workspace"
+      ],
     "contributes": {
         "themes": [
             {
@@ -19,4 +34,5 @@
             }
         ]
     }
+    
 }
