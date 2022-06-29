@@ -3,6 +3,10 @@
     "displayName": "duotone",
     "description": "color theme that supports minecraft datapacks",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+    "url": "https://github.com/diversifiedplayz/duotone"
+    },
     
     "engines": {
         "vscode": "^1.0.0"
@@ -29,8 +33,8 @@
             {
                 "label": "Duotone Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Duotone Theme-color-theme.json",
-                "repository": "https://github.com/diversifiedplayz/duotone"
+                "path": "./themes/Duotone Theme-color-theme.json"
+                
             }
         ]
     }
