@@ -2,12 +2,11 @@
     "name": "duotone-mc",
     "displayName": "Duotone MC",
     "description": "color theme that supports minecraft datapacks",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "repository": {
         "type": "git",
-    "url": "https://github.com/diversifiedplayz/duotone"
+        "url": "https://github.com/diversifiedplayz/duotone"
     },
-    
     "engines": {
         "vscode": "^1.0.0"
     },
@@ -17,7 +16,10 @@
     "publisher": "DiversifiedPlayz",
     "license": "MIT",
     "keywords": [
-        "datapacks","minecraft","theme","mcfunction"
+        "datapacks",
+        "minecraft",
+        "theme",
+        "mcfunction"
     ],
     "icon": "icon.png",
     "homepage": "https://github.com/diversifiedplayz/duotone",
@@ -27,16 +29,14 @@
     "extensionKind": [
         "ui",
         "workspace"
-      ],
+    ],
     "contributes": {
         "themes": [
             {
                 "label": "Duotone Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Duotone Theme-color-theme.json"
-                
             }
         ]
     }
-    
 }
