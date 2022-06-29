@@ -6,7 +6,7 @@ VS code color theme that supports mcfunction files
 
 ## Installation
 
-1. Go to VS Marketplace [link the extension]
+1. Go to VS [Marketplace](https://marketplace.visualstudio.com/items?itemName=DiversifiedPlayz.duotone-mc)
 2. Click on `Install` Button
 3. Then [select](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme) duotone theme
 <br/>
