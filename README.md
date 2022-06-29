@@ -20,3 +20,5 @@ Duotone theme requires [language-mcfunction](https://marketplace.visualstudio.co
 ## Planned Features
 * json highlighting
 * highlighting for other languages
+
+not affiliated with mojang or minecraft
